@@ -20,9 +20,9 @@ Proposed Model
 
 
 Hardware Setup:
-Raspberry Pi 400
-11.1V 2000 mAh 3C 3S1P Li-Ion Battery
-ZEBRONICS Zeb-Crisp Pro Digital Zoom Web Camera (HD) with 5MP Lens
+#Raspberry Pi 400
+#11.1V 2000 mAh 3C 3S1P Li-Ion Battery
+#ZEBRONICS Zeb-Crisp Pro Digital Zoom Web Camera (HD) with 5MP Lens
 5V 1 Channel Relay Module
 10 RPM 12V DC Geared Motor 10 RPM torque 7kg-cm
 100 RPM 12V DC Geared Motor 100 RPM torque 2.9kg-cm
