@@ -19,14 +19,17 @@ Proposed Model
 ![Screenshot 2024-04-26 125619](https://github.com/user-attachments/assets/387e13bc-2be3-4872-aa0e-f8b31f3ac679)
 
 
-Hardware Setup:
-#Raspberry Pi 400
-#11.1V 2000 mAh 3C 3S1P Li-Ion Battery
-#ZEBRONICS Zeb-Crisp Pro Digital Zoom Web Camera (HD) with 5MP Lens
-5V 1 Channel Relay Module
-10 RPM 12V DC Geared Motor 10 RPM torque 7kg-cm
-100 RPM 12V DC Geared Motor 100 RPM torque 2.9kg-cm
-L298N Motor Driver
+## Hardware Setup:
+- Raspberry Pi 400  
+- #11.1V 2000 mAh 3C 3S1P Li-Ion Battery  
+- #ZEBRONICS Zeb-Crisp Pro Digital Zoom Web Camera (HD) with 5MP Lens  
+- 5V 1 Channel Relay Module  
+- 10 RPM 12V DC Geared Motor 10 RPM torque 7kg-cm  
+- 100 RPM 12V DC Geared Motor 100 RPM torque 2.9kg-cm  
+- L298N Motor Driver
+
+
+
 
 
 ![Screenshot 2024-04-29 104304](https://github.com/user-attachments/assets/c6eba175-4be9-4ffe-bc80-503df7d60403)
